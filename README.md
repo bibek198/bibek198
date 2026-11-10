@@ -46,7 +46,27 @@ fun_facts:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ ComputeEdge</h3>
+      <h3>🫀 <a href="https://github.com/bibek198/biobridge-gateway">BioBridge Gateway</a></h3>
+      <p>A <b>descriptor-driven gateway</b> for heterogeneous biomedical edge devices: <b>ESP32</b> firmware streaming ECG/PPG over USB-serial and BLE, a <b>zero-install browser gateway</b> (Web Serial / Web Bluetooth) with record and replay, multi-device clock sync, and verified declarative device drivers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web%20Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/bibek198/Vidur-the-secondary-brain">Vidur: the Secondary Brain</a></h3>
+      <p>A <b>"company brain" agent</b> on <b>FalkorDB</b> that models the Kubernetes project as a company: SIGs are teams, KEPs are decisions, issues and PRs are the conversations, and OWNERS files are code ownership.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FalkorDB-FF4438?style=flat-square"/>
+        <img src="https://img.shields.io/github/stars/bibek198/Vidur-the-secondary-brain?style=flat-square&logo=github"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/bibek198/ComputeEdge">ComputeEdge</a></h3>
       <p>A lightweight <b>C++ tensor engine</b> for edge-AI workloads — tensor representations, matrix ops, a modular compute architecture, and <b>Apple Metal</b> GPU acceleration with CPU/GPU benchmarking on Apple Silicon.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -55,7 +75,7 @@ fun_facts:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ SQLMINT</h3>
+      <h3>🗄️ <a href="https://github.com/bibek198/SQLMINT">SQLMINT</a></h3>
       <p>A <b>SQL database engine in C++</b> built from scratch — custom parser, schema manager and query execution pipeline supporting <code>CREATE</code>, <code>INSERT</code>, <code>SELECT</code>, <code>WHERE</code> and <code>DROP</code> on file-based storage.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -118,6 +138,15 @@ fun_facts:
   <img src="https://img.shields.io/badge/RAG-6f42c1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Faster--Whisper-10a37f?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FalkorDB-FF4438?style=for-the-badge"/>
+</p>
+
+**Embedded & Edge**
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Serial-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apple%20Metal-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 ---
