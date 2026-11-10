@@ -154,8 +154,11 @@ fun_facts:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bibek198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibek198&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bibek198&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
